@@ -1,10 +1,6 @@
-# SCT_ML_2
 # K-means Clustering on Mall Customer Dataset
 
 This project applies **K-means clustering** to group customers of a retail store based on their purchase history. It uses the **Mall Customer Dataset** and determines optimal clusters using the **Elbow Method**.
-
-## Task Description
-This is **Task 02** of my project at **Skillcraft Technology**.
 
 ### Goal:
 - Group customers into clusters based on **Annual Income** and **Spending Score**.
@@ -38,8 +34,16 @@ python kmeans_clustering_mall.py
 - The clustered dataset is saved as **Mall_Customers_with_Clusters.csv**.
 - Plots show the **Elbow Method** and **Cluster Visualization**.
 
-## Author
-- **Sanjay N** - Skillcraft Technology
+## 👨‍💻 Developer
 
-## License
-This project is licensed under the MIT License.
+**Sanjay N** 🚀 Freelancer
+
+🌐 Portfolio: https://sanjayn.me  
+💼 LinkedIn: https://linkedin.com/in/sanjayn29  
+🐙 GitHub: https://github.com/sanjayn29  
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a **star ⭐ on GitHub** to support the development.
